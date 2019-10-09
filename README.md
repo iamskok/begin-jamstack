@@ -1,2 +1,0 @@
-# begin-jamstack
-Begin app

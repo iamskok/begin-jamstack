@@ -1,0 +1,6 @@
+{
+  "name": "begin-app",
+  "dependencies": {
+    "@architect/functions": "latest"
+  }
+}
